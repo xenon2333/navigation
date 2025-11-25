@@ -1,0 +1,1 @@
+body{background-color:#000;user-select:none;}div{max-width:320px;margin:15vh auto 0 auto;color:#e8eaed;}h2{color:#fbbc05;}span{user-select:text}a{color:#fff;background:#3498db;text-decoration:none;padding:.75em 1em;border-radius:0.5em;float:right;transition:opacity .3s,transform .3s;}a:hover{transform:scale(1.05);}a:active{opacity:.7;}
